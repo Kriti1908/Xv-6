@@ -1,0 +1,5 @@
+SYSCOUNT:
+
+- Created a global 2D array with no of pid and max no of syscalls as guideleines
+- Everytime a syscount is called, then we increment the no of syscalls in global array
+- reseet value to 0 while returning
